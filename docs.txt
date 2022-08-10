@@ -1,0 +1,9 @@
+// === instalar JSON Server | global ===
+npm i -g json-server
+
+// === db.json | simula bbdd | clientes | entregar resultados json ===
+
+// === levantar servidor | JSON Server | http://localhost:4000/clientes ===
+json-server db.json -p 4000
+
+// === crear endpoints | generar registros desde la UI ===

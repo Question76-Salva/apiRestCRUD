@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Salvador",
+      "email": "sbs76carmona@gmail.com",
+      "telefono": "636106043",
+      "empresa": "Ayuntamiento de Carmona",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel",
+      "email": "miguel@correo.com",
+      "telefono": "600700800",
+      "empresa": "Codigo Con Juan",
+      "id": 3
+    }
+  ]
+}
